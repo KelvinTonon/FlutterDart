@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//trabalho de dart
 void main() {
   meusDados();
   estruturasDeControle();
@@ -35,7 +35,8 @@ String apresentarAluno(String nome, int idade, bool flutter) {
 void listasEMapas() {
   print("--- Linguagens ---");
   List<String> linguagens = ["Java", "Python", "C"];
-  linguagens.forEach((linguagem) => print("Linguagem: $linguagem"));
+  linguages.forEach((linguagem)=> print("linguagem: $linguagem");)
+  
 
   print("\n--- Matérias ---");
 }
